@@ -25,7 +25,7 @@ The business has a new CEO with the mission to grow revenue and improve product 
 | Category              | Tools Used                          |
 |-----------------------|-------------------------------------|
 | Project Planning      | Miro                                |
-| Data Processing       | Databricks + Databricks + SQL        |
+| Data Processing       | Databricks + SQL                    |
 | Analysis & Viz        | Microsoft Excel (Pivot Tables + Charts) |
 | Presentation          | Microsoft PowerPoint                |
 | Version Control       | GitHub                              |
@@ -35,7 +35,7 @@ The business has a new CEO with the mission to grow revenue and improve product 
 ## Methodology Summary
 
 **Task 1 – Planning & Architecture (Miro)**  
-- Designed full **Data Flow & Architecture Diagram** (source → ETL → Snowflake → Analysis → Presentation)  
+- Designed full **Data Flow & Architecture Diagram** (source → ETL → Databricks → Analysis → Presentation)  
 - Listed key deliverables and calculations  
 
 **Task 2 – Data Processing in Databricks**  
