@@ -25,7 +25,7 @@ The business has a new CEO with the mission to grow revenue and improve product 
 | Category              | Tools Used                          |
 |-----------------------|-------------------------------------|
 | Project Planning      | Miro                                |
-| Data Processing       | Databricks + Snowflake + SQL        |
+| Data Processing       | Databricks + Databricks + SQL        |
 | Analysis & Viz        | Microsoft Excel (Pivot Tables + Charts) |
 | Presentation          | Microsoft PowerPoint                |
 | Version Control       | GitHub                              |
